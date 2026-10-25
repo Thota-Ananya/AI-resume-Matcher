@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ml-intern",
+    "title": "Machine Learning Intern",
+    "company": "Northwind Analytics (fictional)",
+    "description": "We are looking for a Machine Learning Intern to join our data science team. You will build and evaluate machine learning models, clean and analyse datasets, and present insights to stakeholders.\n\nResponsibilities:\n- Develop and evaluate models using Python, scikit-learn, and Pandas.\n- Perform feature engineering and exploratory data analysis with NumPy and Matplotlib.\n- Write SQL queries to extract data from PostgreSQL databases.\n- Collaborate using Git and GitHub, and write unit tests with pytest.\n\nRequirements:\n- Strong Python programming skills and knowledge of statistics.\n- Familiarity with deep learning frameworks such as TensorFlow or PyTorch is a plus.\n- Good communication skills and a willingness to learn."
+  },
+  {
+    "id": "python-dev",
+    "title": "Junior Python Backend Developer",
+    "company": "Contoso Cloud Labs (fictional)",
+    "description": "Contoso Cloud Labs is hiring a Junior Python Backend Developer to help build scalable web services.\n\nResponsibilities:\n- Design and implement REST APIs using Flask or FastAPI.\n- Work with MySQL and MongoDB databases.\n- Containerise services with Docker and deploy them to AWS.\n- Set up CI/CD pipelines and practise version control with Git.\n- Follow Agile practices and write unit tests.\n\nRequirements:\n- Solid understanding of Python, object-oriented programming, and data structures and algorithms.\n- Experience with Linux and the command line.\n- Knowledge of microservices is a bonus."
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "company": "Fabrikam Retail Insights (fictional)",
+    "description": "Fabrikam Retail Insights needs a Data Analyst to turn sales data into clear business decisions.\n\nResponsibilities:\n- Analyse large datasets using SQL, Python, and Pandas.\n- Build dashboards in Power BI or Tableau and create data visualization reports.\n- Use Excel for ad-hoc analysis and reporting.\n- Apply statistical analysis to identify trends and present findings to non-technical audiences.\n\nRequirements:\n- Strong SQL and Excel skills.\n- Experience with data analysis and storytelling with data.\n- Bonus: knowledge of Apache Spark or Airflow."
+  },
+  {
+    "id": "ai-engineer",
+    "title": "AI Engineer (NLP & LLMs)",
+    "company": "Adventure Works AI (fictional)",
+    "description": "Adventure Works AI is looking for an AI Engineer to build natural language processing products.\n\nResponsibilities:\n- Build NLP pipelines and fine-tune transformer models with PyTorch and Hugging Face.\n- Integrate large language models (LLMs) into production applications.\n- Deploy models as FastAPI services using Docker and Kubernetes, following MLOps best practices.\n- Work with GCP or Azure cloud services.\n\nRequirements:\n- Proficiency in Python and deep learning.\n- Understanding of machine learning fundamentals and artificial intelligence concepts.\n- Experience with Git and Linux."
+  }
+]

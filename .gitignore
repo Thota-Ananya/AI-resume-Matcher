@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and private data - never commit real resumes
+.env
+secrets.toml
+uploads/
+*.csv
+!data/*.csv
+
+# Streamlit
+.streamlit/secrets.toml

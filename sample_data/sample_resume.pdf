@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1698 >>
+stream
+BT /F1 10 Tf 13 TL 54 738 Td
+(Alex Morgan \(fictional sample\)) Tj T*
+(alex.morgan@example.com | github.com/alexmorgan-example | Hyderabad, India) Tj T*
+() Tj T*
+(SUMMARY) Tj T*
+(Final-year Computer Science student interested in machine learning and data analysis. Built) Tj T*
+(several Python projects and comfortable working with real datasets.) Tj T*
+() Tj T*
+(EDUCATION) Tj T*
+(B.Tech in Computer Science, Example Institute of Technology, 2022 - 2026) Tj T*
+(Relevant coursework: Data Structures, Algorithms, Statistics, Database Systems) Tj T*
+() Tj T*
+(SKILLS) Tj T*
+(Python, SQL, Pandas, NumPy, Matplotlib, scikit-learn, Git, GitHub, HTML, CSS, Jupyter, Excel) Tj T*
+() Tj T*
+(EXPERIENCE) Tj T*
+(Data Science Intern, Example Analytics Pvt. Ltd. \(Jun 2025 - Aug 2025\)) Tj T*
+(- Cleaned and analysed a customer dataset of 50,000 records using Pandas and NumPy.) Tj T*
+(- Built a churn prediction model with scikit-learn that reached 84% accuracy.) Tj T*
+(- Created data visualization reports with Matplotlib that were shared with 3 business teams.) Tj T*
+(- Wrote SQL queries to extract data from a MySQL database.) Tj T*
+() Tj T*
+(PROJECTS) Tj T*
+(House Price Predictor) Tj T*
+(- Developed a regression model in Python using feature engineering and cross-validation.) Tj T*
+(- Improved RMSE by 12% compared with the baseline model.) Tj T*
+(- Deployed a simple web app with Streamlit.) Tj T*
+() Tj T*
+(Student Marks Dashboard) Tj T*
+(- Designed an exploratory data analysis notebook in Jupyter to find trends across 4 semesters.) Tj T*
+(- Used Git and GitHub for version control.) Tj T*
+() Tj T*
+(CERTIFICATIONS) Tj T*
+(Introduction to Machine Learning \(online course, fictional\)) Tj T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000212 00000 n 
+0000000338 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2088
+%%EOF

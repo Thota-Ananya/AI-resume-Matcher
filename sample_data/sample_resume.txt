@@ -1,0 +1,32 @@
+Alex Morgan (fictional sample)
+alex.morgan@example.com | github.com/alexmorgan-example | Hyderabad, India
+
+SUMMARY
+Final-year Computer Science student interested in machine learning and data analysis. Built several Python projects and comfortable working with real datasets.
+
+EDUCATION
+B.Tech in Computer Science, Example Institute of Technology, 2022 - 2026
+Relevant coursework: Data Structures, Algorithms, Statistics, Database Systems
+
+SKILLS
+Python, SQL, Pandas, NumPy, Matplotlib, scikit-learn, Git, GitHub, HTML, CSS, Jupyter, Excel
+
+EXPERIENCE
+Data Science Intern, Example Analytics Pvt. Ltd. (Jun 2025 - Aug 2025)
+- Cleaned and analysed a customer dataset of 50,000 records using Pandas and NumPy.
+- Built a churn prediction model with scikit-learn that reached 84% accuracy.
+- Created data visualization reports with Matplotlib that were shared with 3 business teams.
+- Wrote SQL queries to extract data from a MySQL database.
+
+PROJECTS
+House Price Predictor
+- Developed a regression model in Python using feature engineering and cross-validation.
+- Improved RMSE by 12% compared with the baseline model.
+- Deployed a simple web app with Streamlit.
+
+Student Marks Dashboard
+- Designed an exploratory data analysis notebook in Jupyter to find trends across 4 semesters.
+- Used Git and GitHub for version control.
+
+CERTIFICATIONS
+Introduction to Machine Learning (online course, fictional)
